@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nicolás Ratto
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Sociólogo y magíster en ciencias sociales
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universidad de Chile
+  url: http://www.facso.uchile.cl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sociology of work, data science and marxism.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sociology of work
+- Data science
+- Statistical
+- Marxism
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Diplomado en Estadística, mención Métodos Estadísticos (en desarrollo)
+    institution: Pontificia Universidad Católica de Chile
+    year: 2021
+  - course: Diplomado de postítulo en Estadística Multivariable
+    institution: Universidad de Chile
+    year: 2019
+  - course: Magíster en Ciencias Sociales
+    institution: Universidad de Chile
+    year: 2017-2018
+  - course: Sociología
+    institution: Universidad de Chile
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +49,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/nicolasratto3
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=a1zgjykAAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nicolasrattor
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/nicolas-ratto-872398119/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +68,12 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nicolas.ratto@ug.uchile.cl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mis intereses de investigación incluyen la sociología del trabajo, la estadística y la teoría social crítica. Actualmente me desempeño como apoyo docente en la Universidad de Chile y como analista socioeconómico en el Instituto Nacional de Estadísticas (INE), en la Encuesta Mensual de Remuneraciones del Departamento de Estadísticas del Trabajo. Anteriormente trabajé en el mismo departamento en la Encuesta Laboral ENCLA 2019, participando en el diseño de la encuesta, en el control de la calidad estadística de la información producida y en el procesamiento de las bases de datos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
