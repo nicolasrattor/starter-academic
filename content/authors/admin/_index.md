@@ -6,7 +6,7 @@ title: Nicolás Ratto
 superuser: true
 
 # Role/position/tagline
-role: Sociólogo y magíster en ciencias sociales
+role: Sociologist and master in social sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,6 +74,6 @@ email: "nicolas.ratto@ug.uchile.cl"
 highlight_name: false
 ---
 
-Mis intereses de investigación incluyen la sociología del trabajo, la estadística y la teoría social crítica. Actualmente me desempeño como apoyo docente en la Universidad de Chile y como analista socioeconómico en el Instituto Nacional de Estadísticas (INE), en la Encuesta Mensual de Remuneraciones del Departamento de Estadísticas del Trabajo. Anteriormente trabajé en el mismo departamento en la Encuesta Laboral ENCLA 2019, participando en el diseño de la encuesta, en el control de la calidad estadística de la información producida y en el procesamiento de las bases de datos.
+My research interests include the sociology of work, statistics, and critical social theory. Currently I work as a teaching support at the Universidad de Chile and as a socioeconomic analyst at the Instituto Nacional de Estadísticas (INE), in the Monthly Remuneration Survey of the Department of Labor Statistics. Previously, I worked in the same department in the ENCLA 2019 Labor Survey, participating in the design of the survey, in the control of the statistical quality of the information produced and in the processing of the databases.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
