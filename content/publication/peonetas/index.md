@@ -1,5 +1,5 @@
 ---
-title: "Estrategias sindicales en dos grandes empresas fragmentadas y filiales de Coca-Cola en Chile"
+title: "Estrategias sindicales en dos grandes empresas fragmentadas y filiales de Coca Cola en Chile"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -29,12 +29,12 @@ publication_types: ["2"]
 publication: In *Sociología del Trabajo, UCM*
 publication_short: In *STRA*
 
-abstract: El artículo analiza las estrategias sindicales mediante las cuales los peonetas subcontratados por dos grandes empresas del sector de distribución de la industria de bebestibles en Chile (filiales de The Coca Cola Company), intentan superar las limitaciones estructurales de sus procesos de trabajo y de sus condiciones de empleo. Para esto se sintetizaron dos investigaciones cualitativas basadas en la observación participante durante tres años (2014-2016) con la Federación que aglutina a los trabajadores peonetas de ambas empresas (FENASIPEC). Recurriendo a las teorías de los procesos de trabajo, de la empresa en red y al enfoque de los recursos de poder se concluye que una de las principales fortalezas del sindicalismo de los peonetas de Coca-Cola está en su poder asociativo, particularmente en el “núcleo militante” de la FENASIPEC, que ejercerá un rol clave en la creación y articulación de los diferentes sindicatos regionales de peonetas. Así también, movilizaron con éxito su poder estructural “en el lugar de la distribución” de mercancías de Coca-Cola con una paralización nacional de más de diez días en el contexto de la realización de la Copa Mundial de la FIFA Brasil 2014. 
+abstract: El artículo analiza las estrategias sindicales mediante las cuales los peonetas subcontratados por dos grandes empresas del sector de distribución de la industria de bebestibles en Chile (filiales de The Coca Cola Company), intentan superar las limitaciones estructurales de sus procesos de trabajo y de sus condiciones de empleo. Para esto se sintetizaron dos investigaciones cualitativas basadas en la observación participante durante tres años (2014-2016) con la Federación que aglutina a los trabajadores peonetas de ambas empresas (FENASIPEC). Recurriendo a las teorías de los procesos de trabajo, de la empresa en red y al enfoque de los recursos de poder se concluye que una de las principales fortalezas del sindicalismo de los peonetas de Coca Cola está en su poder asociativo, particularmente en el “núcleo militante” de la FENASIPEC, que ejercerá un rol clave en la creación y articulación de los diferentes sindicatos regionales de peonetas. Así también, movilizaron con éxito su poder estructural “en el lugar de la distribución” de mercancías de Coca Cola con una paralización nacional de más de diez días en el contexto de la realización de la Copa Mundial de la FIFA Brasil 2014. 
 
 # Summary. An optional shortened abstract.
-summary: Estrategias sindicales en dos grandes empresas fragmentadas y filiales de Coca-Cola en Chile.
+summary: Estrategias sindicales en dos grandes empresas fragmentadas y filiales de CocaCola en Chile.
 
-tags: [Estrategias sindicales, Liderazgo sindical, Proceso de trabajo, Empresa-red, Peonetas, Coca-Cola.]
+tags: [Estrategias sindicales, Liderazgo sindical, Proceso de trabajo, Empresa red, Peonetas, Coca Cola]
 
 # Display this page in the Featured widget?
 featured: true
@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: http://ejemplo.org
 
 url_pdf: 'https://revistas.ucm.es/index.php/STRA/article/view/63264/4564456549477'
 url_code: ''
@@ -66,14 +66,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- ejemplo
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "ejemplo"` references `content/slides/ejemplo/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ejemplo
 ---
 
 {{% callout note %}}
@@ -81,7 +81,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the ejemplo.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

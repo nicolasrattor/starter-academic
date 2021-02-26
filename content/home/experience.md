@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Latest Experiences
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Analista socioeconómico en Encuesta Mensual de Remuneraciones
+    company: Instituto Nacional de Estadísticas (INE)
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Santiago
+    date_start: '2020-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsabilidades:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Creación y aplicación de validadores (R)
+        * Análisis y resolución de inconsistencias (Excel)
+        * Procesamiento y análisis Módulo COVID-19 (RMarkdown)
+        * Investigación socio económica (R y RMarkdown)
         
-  - title: Professor
-    company: University X
+  - title: Analista socioeconómico en Encuesta Laboral Encla 2019
+    company: Instituto Nacional de Estadísticas (INE)
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Santiago
+    date_start: '2019-03-01'
+    date_end: '2020-03-01'
+    description: |2-
+        Responsabilidades:
+        
+        * Diseño de cuestionarios
+        * Capacitación y Supervisión técnica de aplicación de cuestionarios
+        * Procesamiento de bases de datos (R)
+        * Innominación e indeterminación bases de datos (R, *sdcMicro*)
+        * Investigación socio económica (RMarkdown)
 ---
