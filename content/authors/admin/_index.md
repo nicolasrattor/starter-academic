@@ -76,4 +76,4 @@ highlight_name: false
 
 My research interests include the sociology of work, statistics, and critical social theory. Currently I work as a teaching support at the Universidad de Chile and as a socioeconomic analyst at the Instituto Nacional de Estadísticas (INE), in the Monthly Remuneration Survey of the Department of Labor Statistics. Previously, I worked in the same department in the ENCLA 2019 Labor Survey, participating in the design of the survey, in the control of the statistical quality of the information produced and in the processing of the databases.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
