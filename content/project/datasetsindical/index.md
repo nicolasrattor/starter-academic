@@ -1,12 +1,11 @@
 ---
-title: Dataset sindical
-summary: Observatorio para centralizar y ordenar los datos sobre sindicatos en Chile.
+title: Repositorio Sindical
+summary: Plataforma de centralización, ordenamiento y análisis de información sindical en Chile.
 tags:
-- Deep Learning
-date: "2021-03-02T00:00:00Z"
+- Data analysis
+date: "2021-03-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://observatoriosindical.github.io/"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +15,7 @@ image:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
+#  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,5 +29,8 @@ url_video: ""
 #slides: example
 ---
 
-El Dataset sindical busca ordenar y centralizar distintos datos sobre la trayectoria y el estado actual del sindicalismo en el país. Esto, con el objeto de brindarle oportunamente a las organizaciones sindicales y a otros estudiosos/as del trabajo información actualizada, de confianza y reproducible. 
+El Repositorio de Estadísticas Sindicales busca ordenar y centralizar distintos datos sobre la trayectoria y el estado actual del sindicalismo en el país. Esto, con el objeto de brindarle oportunamente a las organizaciones sindicales y a otros estudiosos/as del trabajo información actualizada, de confianza y reproducible.
 
+El observatorio es una iniciativa levantada, sostenida y financiada por investigadores del trabajo independientes y parte de organizaciones de la sociedad civil afines a la temática, como CIPSTRA y GETSUR. Cualquiera puede colaborar corrigiendo información, proponiendo medidas alternativas y nuevos códigos, o aportando con nuevos datos, en el repositorio en [Github](https://github.com/ObservatorioSindical).
+
+Página web para descargar directamente tablas y gráficos: <https://repositoriosindical.netlify.app/>

@@ -19,8 +19,7 @@ bio: My research interests include sociology of work, data science and marxism.
 # Interests to show in About widget
 interests:
 - Sociology of work
-- Data science
-- Statistical
+- Statistics
 - Marxism
 
 # Education to show in About widget
