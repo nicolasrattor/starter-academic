@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Diplomado en Estadística, mención Métodos Estadísticos (en desarrollo)
+  - course: Diplomado en Estadística (en desarrollo)
     institution: Pontificia Universidad Católica de Chile
     year: 2021
   - course: Diplomado de postítulo en Estadística Multivariable
@@ -65,6 +65,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: media/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nicolas.ratto@ug.uchile.cl"

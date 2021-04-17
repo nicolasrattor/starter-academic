@@ -6,18 +6,16 @@ title: "El poder de los trabajadores como factor explicativo de los resultados d
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Jorge Ayala
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
 
-date: "2019-03-01T00:00:00Z"
+date: "2018-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-03-01T00:00:00Z"
+publishDate: "2018-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +24,8 @@ publishDate: "2019-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Sociología del Trabajo, UCM*
-publication_short: In *STRA*
+publication: In *Revista Academia & Crítica. Número 2*
+publication_short: In *Academia & Crítica*
 
 abstract: El presente artículo identifica y analiza las distintas determinantes –en términos de tipos de poderes de negociación de los trabajadores- que contribuyen a que una huelga laboral sea eficaz para los trabajadores que la realizan, en relación a los resultados económicos y organizacionales que estos alcanzan cuando la acción finaliza. Se identifican tres grandes poderes a partir de Wright (2000). De asociación, estructural de mercado y estructural en el lugar de trabajo. Estos se operacionalizan a partir de Silver (2005; 2013) y algunas teorías de los recursos de poder de los trabajadores (Frege & Kelly, 2004). El efecto de los poderes de los trabajadores en los resultados de las huelgas laborales se observa en diez casos de huelgas ocurridas en Chile entre los años 2006 y 2016, que ocurrieron en diferentes sectores de la economía y tuvieron diversos resultados. Los resultados indican que el poder estructural en el lugar de trabajo es el que más determina los resultados eficaces de las huelgas, especialmente cuando esta acción se realiza por fuera de la institucionalidad laboral, dura poco tiempo y cuenta con apoyos sociales y políticos activos.
 

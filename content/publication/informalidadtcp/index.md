@@ -1,5 +1,5 @@
 ---
-title: "La persistente informalidad laboral en el trabajo doméstico en Chile. Una evaluación de la institucionalidad y de las relaciones laborales en el sector antes de la pandemia (en evaluación)"
+title: "La persistente informalidad en el trabajo doméstico en Chile. Una evaluación de la institucionalidad y de las relaciones laborales en el sector antes de la pandemia (aceptado)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://ejemplo.org
 
-url_pdf: ''
+url_pdf: 'https://nicolasrattor.github.io/prepint_persistente_informalidad/'
 url_code: ''
 url_dataset: ''
 url_poster: ''

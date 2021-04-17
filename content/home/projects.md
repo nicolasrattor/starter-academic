@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Data analysis
     tag: Data analysis
+  - name: Cyclism
+    tag: Cyclism
   - name: Other
     tag: Other
 
