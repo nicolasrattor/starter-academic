@@ -31,11 +31,11 @@ experience:
     description: |2-
         Responsabilidades:
         
-        * Creación y aplicación de validadores (R)
-        * Análisis y resolución de inconsistencias (Excel)
-        * Procesamiento y análisis Módulo COVID-19 (RMarkdown)
         * Investigación socio económica (R y RMarkdown)
-        
+        * Creación y aplicación de validadores (R)
+        * Análisis y resolución de inconsistencias
+        * Procesamiento y análisis Módulo COVID-19 (RMarkdown)
+
   - title: Analista socioeconómico en Encuesta Laboral Encla 2019
     company: Instituto Nacional de Estadísticas (INE)
     company_url: ''

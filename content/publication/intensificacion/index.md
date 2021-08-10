@@ -21,13 +21,13 @@ publishDate: "2021-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *DADOS- Revista de Ciências Sociais. Aceptado*
+publication: In *DADOS- Revista de Ciências Sociais. Vol. 64. no. 3*
 publication_short: In *DADOS*
 
-abstract: Pese a la precarización y declinación general de la actividad sindical, se han redescubierto experiencias de revitalización y contra movimientos desde los trabajadores, los que se presentan como gestas heroicas y sin efectos estructurantes sobre las condiciones de trabajo, en una panorama de mercantilización progresiva de la sociedad. A partir del estudio de caso de Walmart en Chile, se sostiene que la actividad sindical al interior de la empresa ha promovido la transformación de su régimen de trabajo, pasando de uno “despótico” basado en la inseguridad salarial, el abuso y las prácticas antisindicales, a otro “hegemónico segmentado”, con mejores trato, intentos de control normativo, fomento de la sindicalización y beneficios materiales desiguales. Se concluye reafirmando las tesis de que la organización autónoma de los trabajadores es posible en contextos de precarización, que la precariedad es reversible, y que el control del trabajo en el retail tiene límites de reproducción bajo mecanismos puramente despóticos y antisindicales.
+abstract: Pese a la precarización y declinación general de la actividad sindical, se han redescubierto experiencias de revitalización y contramovimientos desde los trabajadores, los que se presentan como gestas heroicas y sin efectos estructurantes sobre las condiciones de trabajo, en una panorama de mercantilización progresiva de la sociedad. A partir del estudio de caso de Walmart en Chile, se sostiene que la actividad sindical al interior de la empresa ha promovido la transformación de su régimen de trabajo, pasando de uno “despótico” basado en la inseguridad salarial, el abuso y las prácticas antisindicales, a otro “hegemónico segmentado”, con mejores trato, intentos de control normativo, fomento de la sindicalización y beneficios materiales desiguales. Se concluye reafirmando las tesis de que la organización autónoma de los trabajadores es posible en contextos de precarización, que la precariedad es reversible, y que el control del trabajo en el retail tiene límites de reproducción bajo mecanismos puramente despóticos y antisindicales.
 
 # Summary. An optional shortened abstract.
 summary: La intensificación negociada. Cambios en el régimen de trabajo en una gran empresa del retail en Chile (2006-2018).
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://ejemplo.org
 
-url_pdf: 'https://preprints.scielo.org/index.php/scielo/preprint/view/1386'
+url_pdf: 'http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582021000300201&lng=en&nrm=iso&tlng=es'
 url_code: ''
 url_dataset: ''
 url_poster: ''

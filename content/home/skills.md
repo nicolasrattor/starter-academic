@@ -20,11 +20,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 40%
+- description: 80%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 80%
+- description: 100%
   icon: bicycle
   icon_pack: fas
   name: Cyclism
